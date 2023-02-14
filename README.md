@@ -1,7 +1,2 @@
-
-goodevening
-goodafternoon
-helloooooo
-hai
-hello
-goodmorning
+a=10
+b=10
